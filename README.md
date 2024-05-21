@@ -1,1 +1,1 @@
-# ofTestForSC2024-20
+# Repo para realizar algunos experimentos de cursos usando codespaces
