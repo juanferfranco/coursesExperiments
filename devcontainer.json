@@ -1,0 +1,13 @@
+{
+    "name": "Node.js & p5.js",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-14",
+    "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+    ],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "forwardPorts": [8080],
+    "postCreateCommand": "npm install"
+}

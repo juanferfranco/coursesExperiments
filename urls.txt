@@ -1,0 +1,6 @@
+let socketUrl = 'wss://cuddly-memory-7r95p6vgr7hxp4-8080.app.github.dev/:8080';
+let socketUrl = 'wss://cuddly-memory-7r95p6vgr7hxp4-8080.app.github.dev/:8080';
+
+https://cuddly-memory-7r95p6vgr7hxp4-8080.app.github.dev/desktop
+https://cuddly-memory-7r95p6vgr7hxp4-8080.app.github.dev/mobile
+
